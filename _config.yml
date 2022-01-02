@@ -27,6 +27,8 @@ url: "https://cephalustechnologies.github.io" # the base hostname & protocol for
 twitter_username: nijeeshtv
 github_username:  nijeesh
 
+author: Nijeesh T V
+copyright: Cephalus LLC
 # Build settings
 #theme: minima
 plugins:
